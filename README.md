@@ -1,5 +1,5 @@
 # Portfolio
-Links to personal projects
+Links to personal projects ![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
 
 ## Data Science competitions
 
